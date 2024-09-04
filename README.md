@@ -1,1 +1,1 @@
-# Solving homework "algorithm training" from Yandex.
+# Some solving homework "algorithm training" from Yandex.
